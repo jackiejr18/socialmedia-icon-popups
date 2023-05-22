@@ -32,3 +32,9 @@ html, body {
 	display: inline-flex;
 	list-style: none;
 }
+
+.wrapper .icon {
+	position: relative;
+	background: #ffffff;
+	border-radius: 50%;
+}
