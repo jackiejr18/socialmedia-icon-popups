@@ -102,3 +102,10 @@ html, body {
   background: #1DA1F2;
   color: #ffffff;
 }
+
+.wrapper .instagram:hover,
+.wrapper .instagram:hover .tooltip,
+.wrapper .instagram:hover .tooltip::before {
+  background: #E4405F;
+  color: #ffffff;
+}
